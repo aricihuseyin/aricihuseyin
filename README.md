@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Huseyin ARICI</h1>
-<h3 align="center">I am a dedicated software engineer with a strong background in data science and machine learning. My experience in software engineering has equipped me with the skills to deliver efficient and elegant solutions, as demonstrated in my work on repositories. I am enthusiastic about contributing to innovative projects in the dynamic fields of data science and machine learning. I bring a wealth of experience to these domains and am excited to continue making impactful contributions in this ever-evolving landscape. Best regards</h3>
+<h1 align="center">Hi there! 👋 I'm Huseyin ARICI</h1>
+<h3 align="center">I'm a dedicated software engineer with a strong background in data science and machine learning. My experience in software engineering has equipped me with the skills to deliver efficient and elegant solutions, as demonstrated in my work on repositories. I am enthusiastic about contributing to innovative projects in the dynamic fields of data science and machine learning, bringing a wealth of experience to these domains. Excited to continue making impactful contributions in this ever-evolving landscape. Best regards</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aricihuseyin&label=Profile%20views&color=0e75b6&style=flat" alt="aricihuseyin" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aricihuseyin?tab=repositories](https://github.com/aricihuseyin?tab=repositories)
 
-- 📫 How to reach me **arici.huseyinn@gmail.com**
+- 📫 How to reach me: **arici.huseyinn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +21,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<!-- List of icons and links to the respective tools and languages -->
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<!-- Add other technologies and languages here -->
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aricihuseyin&show_icons=true&locale=en&layout=compact" alt="aricihuseyin" /></p>
