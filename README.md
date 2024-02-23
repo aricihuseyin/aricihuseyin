@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Huseyin ARICI 👋</h1>
 
-<h3 align="center">Dedicated software engineer with a strong background in data science and machine learning</h3>
+<h3 align="center">I am a dedicated software engineer with a strong background in data science and machine learning. My experience in software engineering has equipped me with the skills to deliver efficient and elegant solutions, as demonstrated in my work on repositories.I am enthusiastic about contributing to innovative projects in the dynamic fields of data science and machine learning. I bring a wealth of experience to these domains and am excited to continue making impactful contributions in this ever-evolving landscape. Best regards</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aricihuseyin&label=Profile%20views&color=0e75b6&style=flat" alt="aricihuseyin" />
