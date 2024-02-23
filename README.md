@@ -14,9 +14,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://dev.to/aricihuseyin" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aricihuseyin" height="30" width="40" />
-  </a>
   <a href="https://twitter.com/aricihuseyin" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aricihuseyin" height="30" width="40" />
   </a>
@@ -25,12 +22,6 @@
   </a>
   <a href="https://kaggle.com/nexor5" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nexor5" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/arici_huseyinn" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arici_huseyinn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/nexor05" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nexor05" height="30" width="40" />
   </a>
 </p>
 
