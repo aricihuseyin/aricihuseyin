@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="434" viewBox="0 0 820 434">
+  <style>
+    .win { fill: #282a36; stroke: #44475a; stroke-width: 1.5; }
+    .bar { fill: #21222c; }
+    .title { font: 13px Consolas, 'Courier New', monospace; fill: #6272a4; }
+    text.t { font: 15px Consolas, 'DejaVu Sans Mono', 'Courier New', monospace; fill: #f8f8f2; white-space: pre; }
+    .p { fill: #50fa7b; font-weight: bold; }
+    .c { fill: #bd93f9; }
+    .k { fill: #ff79c6; }
+    .d { fill: #6272a4; }
+    .y { fill: #ffb86c; }
+    .u { fill: #f1fa8c; }
+    .n { fill: #8be9fd; font-weight: bold; }
+    .l { opacity: 0; animation: show 0.01s linear forwards; }
+    @keyframes show { to { opacity: 1; } }
+    .cur { fill: #f8f8f2; opacity: 0; animation: show 0.01s linear 6.7s forwards, blink 1s step-end 6.7s infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .l1 { animation-delay: 0.3s; }  .l2 { animation-delay: 0.9s; }
+    .l3 { animation-delay: 1.2s; }  .l4 { animation-delay: 1.9s; }
+    .l5 { animation-delay: 2.4s; }  .l6 { animation-delay: 2.7s; }
+    .l7 { animation-delay: 3.0s; }  .l8 { animation-delay: 3.3s; }
+    .l9 { animation-delay: 4.1s; }  .l10 { animation-delay: 4.6s; }
+    .l11 { animation-delay: 4.9s; } .l12 { animation-delay: 5.2s; }
+    .l13 { animation-delay: 6.1s; }
+  </style>
+
+  <rect class="win" x="1" y="1" width="818" height="432" rx="10"/>
+  <path class="bar" d="M1 11 a10 10 0 0 1 10 -10 h798 a10 10 0 0 1 10 10 v25 h-818 z"/>
+  <circle cx="22" cy="19" r="6" fill="#ff5555"/>
+  <circle cx="42" cy="19" r="6" fill="#f1fa8c"/>
+  <circle cx="62" cy="19" r="6" fill="#50fa7b"/>
+  <text class="title" x="410" y="23" text-anchor="middle">huseyin@atu: ~</text>
+
+  <text class="t l l1" x="24" y="70"><tspan class="p">huseyin@atu</tspan>:<tspan class="c">~</tspan>$ whoami</text>
+  <text class="t l l2" x="24" y="94"><tspan class="n">Hüseyin ARICI</tspan></text>
+  <text class="t l l3" x="24" y="118">Lecturer @ Tarsus University <tspan class="d">|</tspan> PhD student in Computer Engineering @ ATÜ</text>
+
+  <text class="t l l4" x="24" y="154"><tspan class="p">huseyin@atu</tspan>:<tspan class="c">~</tspan>$ cat education.txt</text>
+  <text class="t l l5" x="24" y="178"><tspan class="y">Ph.D.</tspan>  Computer Engineering            <tspan class="u">ATÜ (ongoing)</tspan></text>
+  <text class="t l l6" x="24" y="202"><tspan class="y">M.Sc.</tspan>  Software Engineering            <tspan class="u">ATÜ</tspan></text>
+  <text class="t l l7" x="24" y="226"><tspan class="y">B.Sc.</tspan>  Computer Engineering            <tspan class="u">Çukurova University</tspan></text>
+  <text class="t l l8" x="24" y="250"><tspan class="y">B.Sc.</tspan>  Elementary Mathematics Education <tspan class="u">METU</tspan></text>
+
+  <text class="t l l9" x="24" y="286"><tspan class="p">huseyin@atu</tspan>:<tspan class="c">~</tspan>$ cat interests.txt</text>
+  <text class="t l l10" x="24" y="310"><tspan class="k">&gt;</tspan> Large language models</text>
+  <text class="t l l11" x="24" y="334"><tspan class="k">&gt;</tspan> Metaheuristic optimization</text>
+  <text class="t l l12" x="24" y="358"><tspan class="k">&gt;</tspan> Machine learning on real-world data</text>
+
+  <text class="t l l13" x="24" y="394"><tspan class="p">huseyin@atu</tspan>:<tspan class="c">~</tspan>$</text>
+  <rect class="cur" x="150" y="380" width="9" height="18"/>
+</svg>
