@@ -28,7 +28,7 @@
   <!-- TODO: Google Scholar, ORCID ve ResearchGate adreslerini doldur -->
   <a href="https://scholar.google.com/citations?user=SCHOLAR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-282a36?style=for-the-badge&logo=googlescholar&logoColor=ff79c6" /></a>
   <a href="https://orcid.org/ORCID_ID"><img src="https://img.shields.io/badge/ORCID-282a36?style=for-the-badge&logo=orcid&logoColor=ff79c6" /></a>
-  <a href="[https://www.researchgate.net/profile/RESEARCHGATE_ID"><img src="https://img.shields.io/badge/ResearchGate-282a36?style=for-the-badge&logo=researchgate&logoColor=ff79c6](https://www.researchgate.net/profile/Hueseyin-Arici-2?ev=hdr_xprf)" /></a>
+  <a href="https://www.researchgate.net/profile/Hueseyin-Arici-2"><img src="https://img.shields.io/badge/ResearchGate-282a36?style=for-the-badge&logo=researchgate&logoColor=ff79c6" /></a>
   <a href="https://linkedin.com/in/aricihuseyinn"><img src="https://img.shields.io/badge/LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=ff79c6" /></a>
   <a href="https://kaggle.com/nexor5"><img src="https://img.shields.io/badge/Kaggle-282a36?style=for-the-badge&logo=kaggle&logoColor=ff79c6" /></a>
   <a href="https://twitter.com/aricihuseyin"><img src="https://img.shields.io/badge/X-282a36?style=for-the-badge&logo=x&logoColor=ff79c6" /></a>
